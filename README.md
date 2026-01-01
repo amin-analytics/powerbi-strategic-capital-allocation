@@ -59,7 +59,7 @@ The analysis is designed to support investment committees, strategy teams, and s
 - Risk-adjusted performance evaluation
 
 ## Screenshots
-Screenshots of all pages are included in the `screenshots` folder for quick review. I have also uploaded all pages together as a PDF file for convenience. 
+Screenshots of all pages are included in the `screenshots` folder for quick review. A consolidated PDF containing all dashboard pages is also provided for convenience.
 
 ## PBIX File Access
 The Power BI (.pbix) file is available upon request for hiring managers and reviewers.
