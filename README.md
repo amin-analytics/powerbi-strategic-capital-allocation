@@ -1,7 +1,7 @@
 # Strategic Capital Allocation & Scenario Analysis (Power BI)
 
 ## Project Overview
-This project demonstrates advanced portfolio analytics and scenario modeling for capital allocation decisions in the renewable energy sector.
+This project simulates a real-world investment strategy use case using representative data. This project demonstrates advanced portfolio analytics and scenario modeling for capital allocation decisions in the renewable energy sector.
 The dashboard evaluates how different investment strategies (Conservative, Balanced, Aggressive) impact portfolio performance under varying risk and cost assumptions.
 
 The analysis is designed to support investment committees, strategy teams, and senior leadership in making risk-adjusted capital allocation decisions.
