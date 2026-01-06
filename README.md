@@ -1,10 +1,23 @@
 # Strategic Capital Allocation & Scenario Analysis (Power BI)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue)](https://bdcerts.com/projects/investment-simulator)
 
 ## Project Overview
 This project simulates a real-world investment strategy use case using representative data. This project demonstrates advanced portfolio analytics and scenario modeling for capital allocation decisions in the renewable energy sector.
 The dashboard evaluates how different investment strategies (Conservative, Balanced, Aggressive) impact portfolio performance under varying risk and cost assumptions.
 
 The analysis is designed to support investment committees, strategy teams, and senior leadership in making risk-adjusted capital allocation decisions.
+
+## 🔗 Live Interactive Dashboard
+
+👉 **View Strategic Investment Decision Simulator**  
+[https://bdcerts.com/projects/investment-simulator](https://bdcerts.com/projects/investment-simulator)
+
+This scenario-based dashboard allows users to:
+- Compare investment strategies (Aggressive / Balanced / Conservative)
+- Analyze risk-adjusted IRR and CAPEX allocation
+- Perform sensitivity analysis using what-if parameters
+
+> Interactive Power BI visuals are embedded directly on the project page.
 
 ## Business Objectives
 - Compare investment strategies on a risk-adjusted basis
@@ -61,11 +74,17 @@ The analysis is designed to support investment committees, strategy teams, and s
 ## Screenshots
 Screenshots of all pages are included in the `screenshots` folder for quick review. A consolidated PDF containing all dashboard pages is also provided for convenience.
 
+## 🔁 Direct Power BI Access (Optional)
+
+If you prefer to open the report directly in Power BI Service:
+
+🔗 https://app.powerbi.com/view?r=eyJrIjoiNGYwNzNmNzctYmE2OC00Yjg1LWExMzktYTJiN2ZmYTBlOGU1IiwidCI6IjJhMGRlOTE5LTRmNzUtNDhiYy1hMDJhLWUwMzRhMmM1MDgyMSIsImMiOjh9&pageName=2f004851a360e52ff492
+
 ## PBIX File Access
 The Power BI (.pbix) file is available upon request for hiring managers and reviewers.
 
 ## Author
 Amin  
 Helsinki, Finland  
-📧 amin.analytics1@gmail.com
+📧 amin@bdcerts.com
 
