@@ -1,4 +1,6 @@
 # Strategic Capital Allocation & Scenario Analysis (Power BI)
+> **Business-facing version of this project is presented as the _Strategic Investment Decision Simulator_ on my portfolio website.**
+
 [![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue)](https://bdcerts.com/projects/investment-simulator)
 
 ## Project Overview
@@ -9,7 +11,7 @@ The analysis is designed to support investment committees, strategy teams, and s
 
 ## 🔗 Live Interactive Dashboard
 
-👉 **View Strategic Investment Decision Simulator**  
+👉 **Strategic Investment Decision Simulator (Business View)**  
 [https://bdcerts.com/projects/investment-simulator](https://bdcerts.com/projects/investment-simulator)
 
 This scenario-based dashboard allows users to:
